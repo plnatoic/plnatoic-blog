@@ -1,8 +1,15 @@
 // List of categories for blog posts
 export const CATEGORIES = [
-	'Category 1',
-	'Category 2',
-	'Category 3',
-	'Category 4',
-	'Category 5'
+	'Chatbot & Assistant',
+	'Computer Vision',
+	'Machine Learning',
+	'Natural Language Processing',
+	'AI Tools',
+	'AI News',
+	'AI Ethics',
+	'Deep Learning',
+	'Generative AI',
+	'Robotics',
+	'AI Research',
+	'AI Applications'
 ] as const
